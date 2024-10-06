@@ -1,16 +1,6 @@
 {
   "contacts": [
     {
-      "id": "@A121",
-      "name": "ajay",
-      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
-      "mobile": "989898989",
-      "email": "ajay123@gmail.com",
-      "company": "tcs",
-      "title": "Software Developer",
-      "groupId": "1"
-    },
-    {
       "id": "@A122",
       "name": "vijay",
       "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
